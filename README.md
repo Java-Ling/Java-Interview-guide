@@ -5,7 +5,7 @@
 ![](https://upload-images.jianshu.io/upload_images/11474088-1d457512352d1efa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 关于更新
-《Java架构进阶核心知识点笔记》 预计一个月左右会有一次内容更新和完善，**有需要本地文档pdf学习的朋友可以加Q群：924964688 管理处可以免费获取 或者加管理QQ：3410981053 免费获取！**
+《Java架构进阶核心知识点笔记》 预计一个月左右会有一次内容更新和完善，**有需要本地文档pdf学习的朋友可以加Q群：924964688 管理处可以免费获取 或者加管理QQ：2967788035 免费获取！**
 
 点击链接加入群聊【java架构进阶团】：https://jq.qq.com/?_wv=1027&k=zXjOS7Oz
 
